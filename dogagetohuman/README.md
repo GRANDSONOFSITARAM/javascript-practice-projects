@@ -11,7 +11,7 @@ humanAge = ((dogAge - 2) * 4) + 21
 
 Current Status: 🚧 Under Development
 
-Note: I am aware there is a logic error/edge case in the current code (e.g., if the dog's age is less than 2). I am uploading this as part of my learning journey and will be pushing a fix soon to handle:
+**Note: I am aware there is a logic error/edge case in the current code (e.g., if the dog's age is less than 2). I am uploading this as part of my learning journey and will be pushing a fix soon to handle:
 
 >Dogs younger than 2 years.
 
